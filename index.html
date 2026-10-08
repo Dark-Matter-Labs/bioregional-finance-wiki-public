@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bioregional Finance Wiki</title>
+<meta name="description" content="A shared, open knowledge base on bioregional finance. Read it with any AI. Licensed CC BY-SA 4.0.">
+<link rel="alternate" type="text/plain" title="llms.txt" href="llms.txt">
+<style>
+  :root {
+    --bg: #fbfaf7; --fg: #1c1d1a; --muted: #5d6058; --line: #dedbd2;
+    --panel: #f1efe8; --accent: #2f6b4f; --accent-fg: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141513; --fg: #ecebe6; --muted: #a3a59c; --line: #33352f;
+            --panel: #1e201c; --accent: #7cc39c; --accent-fg: #0f1a14; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 44rem; margin: 0 auto; padding: 3rem 1rem 4rem; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 .75rem; }
+  h2 { font-size: 1.25rem; margin: 2.5rem 0 .5rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
+  h3 { font-size: 1.05rem; margin: 1.5rem 0 .25rem; }
+  p, li { color: var(--fg); }
+  .lede { color: var(--muted); font-size: 1.1rem; }
+  a { color: var(--accent); }
+  code { font: .9em ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--panel);
+         padding: .1em .3em; border-radius: 4px; overflow-wrap: anywhere; }
+  .prompt { position: relative; background: var(--panel); border: 1px solid var(--line);
+            border-radius: 8px; padding: 1rem 1rem 3.25rem; }
+  .prompt pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere;
+                font: .9rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .prompt button { position: absolute; right: .75rem; bottom: .75rem; border: 0; border-radius: 6px;
+                   background: var(--accent); color: var(--accent-fg); font: inherit; font-size: .9rem;
+                   padding: .4rem .9rem; cursor: pointer; }
+  .prompt button:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+  ul.pages span { color: var(--muted); }
+  .note { color: var(--muted); font-size: .95rem; }
+  footer { margin-top: 3rem; color: var(--muted); font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Bioregional Finance Wiki</h1>
+  <p class="lede">A shared knowledge base on bioregional finance: how money reaches bioregions,
+  the instruments and institutions that carry it, and what has worked so far. Dark Matter Labs
+  and partner organisations keep it. Anyone can read it, with any AI.</p>
+  <p class="note">0 public page(s). Latest page change: not yet.</p>
+
+  <h2>Ask your AI</h2>
+  <p>This works in ChatGPT, Claude, Gemini, Perplexity and most other chat assistants. Copy the
+  prompt and add your question at the end.</p>
+  <div class="prompt">
+    <pre id="prompt">Read https://dark-matter-labs.github.io/bioregional-finance-wiki-public/llms-full.txt. It is the Bioregional Finance Wiki.
+Answer my question from it. Cite the page title for each claim.
+Say clearly when the wiki does not cover something.
+
+My question: </pre>
+    <button type="button" id="copy">Copy prompt</button>
+  </div>
+  <p class="note">If your assistant cannot open links, download
+  <a href="llms-full.txt" download>llms-full.txt</a>, attach it to your chat, and use the same prompt.</p>
+
+  <h3>In a coding agent</h3>
+  <p>For deeper work in Claude Code, Cursor, Codex or a similar tool, download the wiki with
+  <code>git clone https://github.com/dark-matter-labs/bioregional-finance-wiki-public</code> and open the folder. The agent reads <code>AGENTS.md</code> first.</p>
+
+  <h3>In a tool of your own</h3>
+  <p><a href="llms.txt">llms.txt</a> maps every page. <a href="llms-full.txt">llms-full.txt</a> holds
+  every page in one file. Each page is a markdown file under <code>wiki/</code>.</p>
+
+  <h2>How to read an answer</h2>
+  <p>Each page states its <strong>confidence</strong>, which says how well its sources support it. It also
+  states its <strong>validation</strong>, which says who has stood behind it. <code>machine</code> means an AI wrote it
+  and no person has confirmed it yet. Check the cited page before you rely on an answer.</p>
+
+  <h2>Pages</h2>
+  <ul class="pages">
+<li>No pages are public yet. The first ones are being reviewed.</li>
+  </ul>
+
+  <h2>Suggest a source or a correction</h2>
+  <p>Anyone can read the wiki. Nobody edits this copy directly. If you have a source or a
+  correction, email <a href="mailto:leon@darkmatterlabs.org?subject=Bioregional%20Finance%20Wiki%20suggestion">leon@darkmatterlabs.org</a>.</p>
+  <p class="note">The wiki is selective on purpose. It looks for approaches that change how finance
+  works, not only ones that improve it. Not every suggestion is added.</p>
+
+  <h2>Licence</h2>
+  <p>Licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. You may share
+  and adapt it, including commercially. Give credit and share adaptations under the same licence.
+  Credit it as: <em>Bioregional Finance Wiki, Dark Matter Labs and contributors, https://dark-matter-labs.github.io/bioregional-finance-wiki-public/, CC BY-SA 4.0</em>.</p>
+
+  <footer>No tracking and no cookies. Your questions go to your own AI provider, not to us.
+  · <a href="https://github.com/dark-matter-labs/bioregional-finance-wiki-public">Source on GitHub</a></footer>
+</main>
+<script>
+  (function () {
+    var button = document.getElementById("copy");
+    var text = document.getElementById("prompt").textContent;
+    button.addEventListener("click", function () {
+      if (!navigator.clipboard) { button.textContent = "Select and copy"; return; }
+      navigator.clipboard.writeText(text).then(function () {
+        button.textContent = "Copied";
+        setTimeout(function () { button.textContent = "Copy prompt"; }, 2000);
+      }, function () { button.textContent = "Select and copy"; });
+    });
+  })();
+</script>
+</body>
+</html>

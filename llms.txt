@@ -1,0 +1,14 @@
+# Bioregional Finance Wiki
+
+> A shared, open knowledge base on bioregional finance, kept by Dark Matter Labs and partners. Read-only. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+
+Cite pages by title and URL. Each page states its confidence and who has reviewed it (`validation`). `machine` means an AI wrote it and no person has confirmed it yet. How to read and cite: https://dark-matter-labs.github.io/bioregional-finance-wiki-public/AGENTS.md
+
+## Pages
+
+- No pages are public yet.
+
+## Optional
+
+- [Every page in one file](https://dark-matter-labs.github.io/bioregional-finance-wiki-public/llms-full.txt)
+- [How to suggest a source or a correction](https://dark-matter-labs.github.io/bioregional-finance-wiki-public/CONTRIBUTING.md)
