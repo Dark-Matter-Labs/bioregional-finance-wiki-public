@@ -6,7 +6,7 @@ Cite pages by title and URL. Each page states its confidence and who has reviewe
 
 ## Pages
 
-- No pages are public yet.
+- [About the Bioregional Finance Wiki](https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/about.md): What this wiki covers, who keeps it, how it is made, and how to suggest a source.
 
 ## Optional
 

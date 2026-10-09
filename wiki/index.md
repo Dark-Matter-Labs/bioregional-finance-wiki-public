@@ -1,4 +1,5 @@
 # Bioregional Finance Wiki — index
 
-0 public page(s).
+1 public page(s).
 
+- [About the Bioregional Finance Wiki](about.md) — What this wiki covers, who keeps it, how it is made, and how to suggest a source.

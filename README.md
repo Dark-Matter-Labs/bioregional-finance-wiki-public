@@ -12,8 +12,8 @@ It is free to read, free to reuse under CC BY-SA 4.0, and needs no account.
 
 | | |
 |---|---|
-| **Pages** | 0 public page(s) |
-| **Latest page change** | not yet |
+| **Pages** | 1 public page(s) |
+| **Latest page change** | 2026-10-09 |
 | **Licence** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Suggestions** | leon@darkmatterlabs.org |
 
