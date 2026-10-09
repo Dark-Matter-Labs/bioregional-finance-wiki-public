@@ -1,5 +1,24 @@
 # Bioregional Finance Wiki — index
 
-1 public page(s).
+20 public page(s).
 
 - [About the Bioregional Finance Wiki](about.md) — What this wiki covers, who keeps it, how it is made, and how to suggest a source.
+- [The Believed Law of Financial Returns (Seefeld, 2026)](believed-law-of-financial-returns-summary.md) — A short essay arguing that financial return is an inherited design choice, and that willing capital lacks the financial architecture to reach resilient places.
+- [Bioregional Financing Facilities (book, 2024)](bff-book-summary.md) — A 2024 book proposing Bioregional Financing Facilities, place-governed institutions that route integrated capital to portfolios of regenerative projects in every bioregion.
+- [The BFF Pattern Cards](bff-pattern-cards-summary.md) — A public set of 87 pattern cards, in seven types, for designing Bioregional Financing Facilities, from instruments and institutions to deep code shifts.
+- [BioFi Deep Dive: bioregional financing facilities in Europe](biofi-deep-dive-europe-summary.md) — A September 2026 slide deck for the BioFi community of practice taking stock of bioregional financing facilities in Europe, two years after the BFF book.
+- [The Bioregional Health Framework](bioregional-health-framework-summary.md) — A working-draft framework for reading a bioregion's health through four dimensions, set inside a proposal for Bioregional Observatories that feed BFF decisions.
+- [Bioregioning as Critical Infrastructure (Seefeld, 2026)](bioregioning-critical-infrastructure-summary.md) — An essay arguing that bioregioning is strategic infrastructure for Europe in an age of degenerative volatility, and that finance will reorient around foundational economies.
+- [Bioregioning Tayside: the BFF page and interviews](bioregioning-tayside-bff-summary.md) — Bioregioning Tayside's project page and two linked interviews on building Scotland's first Bioregional Financing Facility, from stocktake to pilots.
+- [Bioregioning Through Bindings (Johar, 2026)](bioregioning-through-bindings-summary.md) — Indy Johar's essay proposing that a bioregion is a living relational body of bindings and knots, and that institutions and capital should start from those relationships.
+- [The Dark Matter Labs bioregions platform](bioregions-platform-home-summary.md) — The home page of Dark Matter Labs' bioregions platform, which defines bioregions and bioregioning and sets out a seven-part scaffold for bioregional teams.
+- [The bioregions platform: programmes and pages](bioregions-platform-subpages-summary.md) — The inner pages of Dark Matter Labs' bioregions platform, with an open toolbox for bioregional teams, the BFF book and game, publications, and ways to engage.
+- [BFF Discovery Arc 1: Allocation Decision Governance](discovery-arc-1-allocation-governance-summary.md) — A provocation paper asking how bioregional financing facilities can combine expert rigour with community-held knowledge when deciding where capital goes.
+- [BFF Discovery Arc 2: Blended Finance and Catalytic Capital](discovery-arc-2-blended-finance-summary.md) — A provocation paper arguing that grant capital in bioregional finance should build local governance, trust and financial sovereignty, and should rarely backstop investor returns.
+- [BFF Discovery Arc 3: Risk and Value Sharing](discovery-arc-3-risk-value-sharing-summary.md) — A provocation paper proposing that a bioregional portfolio pool risk and circulate value among its projects, with investors and the wider bioregion inside the design.
+- [BFF Discovery Arc 4: Multi-Capital Returns](discovery-arc-4-multi-capital-returns-summary.md) — A provocation paper arguing that every allocation of capital yields returns across many capitals, and that place-based resilience is the return that holds the others together.
+- [The 5 Options of Our Time (Seefeld, 2026)](five-options-of-our-time-summary.md) — Leon Seefeld's short essay setting out a 5-Options Framework and arguing that resilience may shift the frame of today's political and financial debates.
+- [Relationalized Finance (Bollier and Hulst, 2025)](relationalized-finance-summary.md) — An essay proposing noncapitalist, commons-based finance for bioregions, built around a regrantor fund that shields commons from the extractive demands of capital.
+- [RZ Studio (rz.capital)](rz-capital-summary.md) — The website of RZ Studio, which builds place-based capital allocation capacity with bioregional partners and sets out positions on returns, risk and security.
+- [SI-SF: System Investing and System Finance (Codex 25)](si-sf-codex-25-summary.md) — A Dm Capital Systems report setting out a vocabulary and frameworks for financing whole systems, from value structuring and capital stacks to governance functions.
+- [Tay Bioregion Stocktake and Gap Analysis (2025)](tayside-stocktake-summary.md) — A joint stocktake of bioregional organising in the Tay Bioregion across 15 elements, naming the gaps to close before a Bioregional Financing Facility.

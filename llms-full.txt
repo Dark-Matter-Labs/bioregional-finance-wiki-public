@@ -65,3 +65,908 @@ not only ones that improve it. Not every suggestion is added.
 
 The content is licensed CC BY-SA 4.0. You may share and adapt it if you give credit and
 share your version under the same licence.
+
+
+---
+
+<!-- page: The Believed Law of Financial Returns (Seefeld, 2026) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/believed-law-of-financial-returns-summary.md -->
+
+---
+type: summary
+title: The Believed Law of Financial Returns (Seefeld, 2026)
+description: A short essay arguing that financial return is an inherited design choice, and that willing capital lacks the financial architecture to reach resilient places.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [financial-returns, capital-allocation, five-options-framework, resilience, financial-architecture]
+sources: []
+---
+
+# The Believed Law of Financial Returns (Seefeld, 2026)
+
+*A three-page essay by Leon Seefeld, dated 30 June 2026 (raw/The Believed Law of Financial Returns.pdf, p. 1). Read for this page: all three pages.*
+
+## What it argues
+
+Seefeld questions the belief that capital allocation needs financial return as its main organising principle (raw/The Believed Law of Financial Returns.pdf, p. 1). The belief has become so familiar that it feels like a law of nature. Yet the conditions behind the old investment model keep eroding (raw/The Believed Law of Financial Returns.pdf, p. 1). Seen this way, the pursuit of return looks "more like a design choice inherited from a different era" (raw/The Believed Law of Financial Returns.pdf, p. 1).
+
+The problem he names is plumbing. Many allocators already want stronger places, healthier watersheds and resilient food systems. Current financial infrastructure rarely gives them a direct route to those outcomes (raw/The Believed Law of Financial Returns.pdf, p. 2). So capital passes through structures built to recreate conventional returns, even where those returns depend on cross-subsidies (raw/The Believed Law of Financial Returns.pdf, p. 2).
+
+## Key points
+
+- **A fifth option.** Using the Five Options Framework, Seefeld sees a possibility beyond market-rate investment and philanthropy (raw/The Believed Law of Financial Returns.pdf, p. 2). Capital can pursue portfolios of returns that include resilience, ecological carrying capacity and social cohesion (raw/The Believed Law of Financial Returns.pdf, p. 2).
+- **Return as one measure among several.** Financial return becomes one possible expression of value, no longer its universal measure (raw/The Believed Law of Financial Returns.pdf, p. 2).
+- **The cost of the workaround.** Old structures "may constrain entirely new forms of capital allocation before they have the opportunity to mature" (raw/The Believed Law of Financial Returns.pdf, p. 2).
+- **Willing capital exists.** Family offices, foundations, public institutions, pension funds and private investors increasingly see that flourishing places protect their balance sheets (raw/The Believed Law of Financial Returns.pdf, p. 3).
+- **The missing piece.** What may be missing is financial architecture able to receive capital on those terms (raw/The Believed Law of Financial Returns.pdf, p. 3).
+- **The closing question.** It asks whether "the financial system has built enough pipes for the capital that already wants to flow" (raw/The Believed Law of Financial Returns.pdf, p. 3).
+
+## Where it sits in this wiki
+
+- [[The 5 Options of Our Time (Seefeld, 2026)]] supplies the framework this essay applies.
+- [[Bioregioning as Critical Infrastructure (Seefeld, 2026)]] is the essay it cites, under a slightly different title, for the claim that resilience is productive infrastructure.
+- [[RZ Studio (rz.capital)]] takes a related stance in its position on returns (synthesis).
+- [[Bioregional Financing Facilities (book, 2024)]] describes one form the missing architecture could take (synthesis).
+
+
+---
+
+<!-- page: Bioregional Financing Facilities (book, 2024) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bff-book-summary.md -->
+
+---
+type: summary
+title: Bioregional Financing Facilities (book, 2024)
+description: A 2024 book proposing Bioregional Financing Facilities, place-governed institutions that route integrated capital to portfolios of regenerative projects in every bioregion.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, bioregional-finance, systemic-investing, integrated-capital, governance, regenerative-economy, dark-matter-labs]
+sources: []
+---
+
+# Bioregional Financing Facilities (book, 2024)
+
+*A 168-page book by Samantha Power (The BioFi Project and Finance for Gaia) and Leon Seefeld (Dark Matter Labs and Dark Matter Capital Systems). The BioFi Project, Dark Matter Labs and the Buckminster Fuller Institute published it in June 2024 (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 2). Read for this page: the contents (pp. 4 to 6), the foreword and key messages (pp. 8 to 12), sections 1.3 and 1.4 (pp. 33 to 37), chapter 2 (pp. 39 to 40 and 43 to 48), chapter 4 up to the phase 1 templates (pp. 66 to 79), sections 4.3 to 4.5 (pp. 94 to 105), chapter 5 (pp. 107 to 112), chapter 8 (pp. 141 to 145) and the conclusion (p. 147). Not read: the executive summary, chapter 3, chapters 6 and 7, most case studies and the glossary.*
+
+## What it argues
+
+The book proposes the Bioregional Financing Facility (BFF) as "a new layer in the global financial architecture" (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 44). Every bioregion on Earth could create one. A BFF raises integrated capital from many sources and sends it to aggregated portfolios of coordinated regenerative projects. "In return, regeneration benefits can flow back to investors in a community-determined, non-extractive way." (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 44) The authors call this missing link between capital holders and regenerators "connective tissue" (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 44). A BFF works beside a Bioregional Organizing Team and one or more Bioregional Hubs. The book calls these the three legs of bioregional regeneration (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 68).
+
+The case starts from a risk. A wave of capital is now committed to "investing in nature". If it flows through the existing financial architecture, the authors expect more commodification, privatization and centralization of natural assets (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, pp. 35 to 36). So the size of the "nature finance gap" is only half the problem. The book says "where and how those resources are spent and who gets to make those decisions is as important as the amount." (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 36)
+
+The book is open about what it leaves unsettled. It says "a full exploration of governance is not within the scope of this book." (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 107) On links between BFFs at different scales, "there is no theoretically ideal prescription that can be offered today" (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 112). It calls the rationale for investing in bioregional regeneration emergent, to be developed through prototypes (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 94). Many bioregions cannot raise enough capital from within, especially colonized ones (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 101). In places that grew wealthy from extraction, localizing capital without reparation may deepen inequality (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 68). The critique of money itself is out of scope (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 36).
+
+## Key points
+
+- **Three objectives.** A BFF aims to decentralize financial resource governance, organize synergistic portfolios of projects, and catalyze the transition to a regenerative economy (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 45).
+- **Twelve attributes.** Each facility should work towards twelve attributes, adapted to its place (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, pp. 46 to 47). They include participatory governance that represents the bioregion, an integrated capital structure, aggregation and matchmaking, shared sensing and MRV, and storytelling (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, pp. 70 to 77).
+- **Four types, set up in phases.** The templates are a Bioregional Trust, a Bioregional Venture Studio, a Bioregional Investment Company and a Bioregional Bank (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 47). The book recommends a grant-funded Trust first, then a Venture Studio (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 77). The Investment Company follows once projects can take investment, and the Bank comes in phase 2 or 3 (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 78).
+- **Modular by design.** A bioregion may combine several functions in one facility. Existing vehicles such as CDFIs, land trusts and perpetual purpose trusts could become BFFs (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 78). A Bioregional Insurance Company is named as needed but left out of scope (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 78).
+- **Many kinds of capital.** A table maps sources from development aid, grants and donor-advised funds to market-rate capital, insurers, central banks, supply chain finance and eco-credits (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, pp. 95 to 100). One near-term route is the $20 billion in aid pledged by 2025 under Target 19 of the Global Biodiversity Framework (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 94).
+- **Systemic portfolios.** BFFs build on systemic investing, whose aim the book gives as "Transform a system" (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 102). A portfolio can fund low-profit work such as policy, convening and conflict mediation, because it helps other projects succeed (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 103).
+- **Returns serve the strategy.** The book says "financial returns cannot be the purpose of an investment." (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 73) It measures returns with the 4 Returns Framework: financial, social, ecological and inspiration (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 12).
+- **Governance that represents the place.** Boards should be ethnically and culturally representative, include Indigenous groups, hear youth and elders, rotate, and seat proxies for more-than-human life (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 108). The book suggests separating operating governance from governance of profit distribution (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 111).
+
+## Where it sits in this wiki
+
+- [[BFF Discovery Arc 1: Allocation Decision Governance]] takes up allocation governance, which this book leaves open in chapter 5 (synthesis).
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]] works on the integrated capital structure that this book sketches in section 4.3 (synthesis).
+- [[SI-SF: System Investing and System Finance (Codex 25)]] sets out the systemic investing that this book's portfolios build on (synthesis).
+- [[BioFi Deep Dive: bioregional financing facilities in Europe]] surveys BFF work in Europe, where this book's template meets practice (synthesis).
+- [[Bioregioning Tayside: the BFF page and interviews]] covers BFF work in Tayside, a bioregion this book lists among its examples (raw/Bioregional Financing Facilities – Reimagining Finance to Regenerate Our Planet_compressed.pdf, p. 39).
+
+
+---
+
+<!-- page: The BFF Pattern Cards | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bff-pattern-cards-summary.md -->
+
+---
+type: summary
+title: The BFF Pattern Cards
+description: A public set of 87 pattern cards, in seven types, for designing Bioregional Financing Facilities, from instruments and institutions to deep code shifts.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bff-pattern-cards, bioregional-financing-facilities, financial-instruments, governance-principles, capital-allocation, design-tools]
+sources: []
+---
+
+# The BFF Pattern Cards
+
+*The public Notion database of BFF Pattern Cards published by Dark Matter Labs. This page describes the database as read on 24 September 2026, when it held 87 cards (raw/bff-pattern-cards-notion-2026-09-24.md, header). Read for this page: every card's properties and text. Linked Google Docs and provocation pages could not be read.*
+
+## What it argues
+
+The cards are a design kit for Bioregional Financing Facilities (BFFs). Each card names one reusable pattern. It may be an instrument, institution, tool, capability, principle, shift in logic or reason to fund (raw/bff-pattern-cards-notion-2026-09-24.md, card Type fields). Many cards list what they require and what they are required for (raw/bff-pattern-cards-notion-2026-09-24.md, T-01 Project Database). That structure suggests the cards are meant to be combined into a facility design (synthesis).
+
+The set leans towards systemic finance (synthesis). Several cards describe portfolios, risk and value as properties of a whole place. The Portfolio Ecology capability, for example, designs portfolios on ecological principles (raw/bff-pattern-cards-notion-2026-09-24.md, C-07 Portfolio Ecology). Many cards hold only a summary so far, with an empty detailed description (raw/bff-pattern-cards-notion-2026-09-24.md, I-01 to I-22).
+
+## Key points
+
+- **Seven types.** It holds 22 Instruments, 27 Allocation Motifs, 8 Technologies, 8 Capabilities, 8 Governance Principles, 7 Institutions and 7 Deep Code Shifts (raw/bff-pattern-cards-notion-2026-09-24.md, card Type fields).
+- **How cards are tagged.** Instruments are tagged market, community, state or a mix. Technologies and Institutions carry a pillar: data and intelligence, projects, governance or finance. These three types also carry a difficulty of basic, medium or advanced (raw/bff-pattern-cards-notion-2026-09-24.md, card properties).
+- **Instruments, for example.** Bioregional Resilience Bonds borrow from catastrophe bonds to reinvest insurance savings into resilience (raw/bff-pattern-cards-notion-2026-09-24.md, I-09). Bioregional Improvement Districts use a voluntary levy to fund shared infrastructure (raw/bff-pattern-cards-notion-2026-09-24.md, I-08).
+- **One instrument rests on many cards.** The Bioregional Investment Fund requires 12 other cards, including all eight Governance Principles (raw/bff-pattern-cards-notion-2026-09-24.md, I-01). Bioregional Health Metrics are required for nine other cards (raw/bff-pattern-cards-notion-2026-09-24.md, T-03).
+- **Capabilities ask questions.** Each opens with a "How might our BFF design" question. It then says what the capability is, why it matters and what it enables (raw/bff-pattern-cards-notion-2026-09-24.md, C-01 to C-08). Systemic Risk Management treats risk as a property of connected systems (raw/bff-pattern-cards-notion-2026-09-24.md, C-06).
+- **Deep Code Shifts contrast two logics.** The Time card moves from linear temporality to deep time. It states "The future is treated as a stakeholder" (raw/bff-pattern-cards-notion-2026-09-24.md, DCS-03). Others cover value, extraction, risk, scarcity, relationality and growth (raw/bff-pattern-cards-notion-2026-09-24.md, DCS-01 to DCS-07).
+- **Governance Principles are short commitments.** One says allocation decisions "will not be made behind closed doors" (raw/bff-pattern-cards-notion-2026-09-24.md, GP-05). Another treats in-person convening as an investment in system coherence (raw/bff-pattern-cards-notion-2026-09-24.md, GP-04).
+- **Allocation Motifs match reasons to funders.** Most name a type of financial capital and relevant funders. Ground Force Defence proposes rewetting wetlands as natural defence, funded through security finance (raw/bff-pattern-cards-notion-2026-09-24.md, Ground Force Defence). Others cover avoided damage costs, supply chains and iconic species (raw/bff-pattern-cards-notion-2026-09-24.md, Allocation Motifs).
+
+## Where it sits in this wiki
+
+- [[The bioregions platform: programmes and pages]] describes the BFF Game built on these cards and the form that opens the online repository.
+- [[Bioregional Financing Facilities (book, 2024)]] sets out the facility model the cards break into parts (synthesis).
+- [[The Bioregional Health Framework]] relates to the Bioregional Health Metrics and Bioregional Observatory cards (synthesis).
+- [[Bioregioning as Critical Infrastructure (Seefeld, 2026)]] makes the security argument that motifs such as Ground Force Defence put into practice (synthesis).
+
+
+---
+
+<!-- page: BioFi Deep Dive: bioregional financing facilities in Europe | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/biofi-deep-dive-europe-summary.md -->
+
+---
+type: summary
+title: "BioFi Deep Dive: bioregional financing facilities in Europe"
+description: A September 2026 slide deck for the BioFi community of practice taking stock of bioregional financing facilities in Europe, two years after the BFF book.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, europe, field-review, discovery-arcs, capabilities, slide-deck]
+sources: []
+---
+
+# BioFi Deep Dive: bioregional financing facilities in Europe
+
+*A 19-slide deck presented to the BioFi community of practice in September 2026. The presenter is not named on the slides. The deck carries the marks of Dark Matter Labs, Bioregional Weaving Labs and Wire Group (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 16). The presenter calls it "but one perspective" from two organisations among many (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 2). Read for this page: all 19 slides. Slides 4, 10 and 16 are mostly images, read from the picture.*
+
+## What it argues
+
+The deck takes stock two years after the BFF book launch. It has three parts: what is happening in the field, what the presenter's teams have built, and where things are heading (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 2). Its headline is that BFFs in Europe are "seeded". There is much activity in the UK, Ireland, France, Spain and the Netherlands, and more is coming in six other countries (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 3).
+
+The deck is frank about the gap between interest and delivery. People voice a high need, yet "very little actual legal structuring" is happening (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 6). It ends by asking which capabilities the field needs to move "from seeding to blooming" (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 18).
+
+## Key points
+
+- **Many mechanisms.** The deck lists over a dozen being tested, from catchment trusts and a bioregional bond to a parametric fire-resilience facility and an adapted debt line. They are diversifying beyond the four initial archetypes (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 5).
+- **Security is a driver.** Security spending on water, fire, food and heat is increasingly a key driver. Private wealth and EU funding also drive the work, alongside philanthropy and regional funds (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 6).
+- **Portfolio weavers matter.** The deck says weavers have proved a highly critical and useful role in building the field (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 6).
+- **Real divergences.** Teams differ on raising funds first or aggregating regional demand first. They also differ on moving money quickly or moving "at speed of trust" (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 6).
+- **Hard challenges.** The deck names talent and capability, the maths of managing systemic portfolios, and accounting for indirect value. It calls nature and PES markets a dead end (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 7).
+- **The four Discovery Arcs.** Bioregional Weaving Labs runs four arcs: allocation governance, blended finance, risk and value sharing, and multi-capital returns. Arc 1 governance is being tested across three BFF prototypes (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 9).
+- **Tools on offer.** These include a stocktake and gap analysis, a project portfolio template, bioregional health metrics and the Bioregional Observatory. Others are the BFF Pattern Cards, RZ Studio and a BFF scenario game (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slides 11 to 15).
+- **A pooled fund.** The European Headwaters Flow Fund launched its first iteration as a pooling function with no new legal entity. It passes all commitments to bioregions as grants in three sleeves sized to maturity (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 16).
+- **Seven capabilities.** These are complexity acumen, non-market valuation, systemic risk management, portfolio management, legitimacy, collective sense-making and polycentric governance (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 18).
+- **A closing question.** "Are we building the pipes and muscles for when the flood comes?" (raw/BioFi Deep Dive on the BFF landscape in Europe.pdf, slide 19).
+
+## Where it sits in this wiki
+
+- [[Bioregional Financing Facilities (book, 2024)]] is the book whose launch this deck dates itself from.
+- The deck summarises [[BFF Discovery Arc 1: Allocation Decision Governance]] and [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]] on slide 9. It also summarises [[BFF Discovery Arc 3: Risk and Value Sharing]] and [[BFF Discovery Arc 4: Multi-Capital Returns]].
+- [[Tay Bioregion Stocktake and Gap Analysis (2025)]] is an applied example of the stocktake method listed on slide 11 (synthesis).
+- [[The BFF Pattern Cards]] and [[RZ Studio (rz.capital)]] are two of the tools the deck points to on slides 13 and 14.
+- [[The Bioregional Health Framework]] is the measurement work behind the health metrics on slide 12 (synthesis).
+
+
+---
+
+<!-- page: The Bioregional Health Framework | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregional-health-framework-summary.md -->
+
+---
+type: summary
+title: The Bioregional Health Framework
+description: A working-draft framework for reading a bioregion's health through four dimensions, set inside a proposal for Bioregional Observatories that feed BFF decisions.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-health, indicators, observatories, measurement, bff, governance]
+sources: []
+---
+
+# The Bioregional Health Framework
+
+*An interactive page on the Dark Matter Labs bioregions site, captured on 24 September 2026. No author is named. The page marks itself as a working draft, open for comment. It has two parts: a proposal for Bioregional Observatories, and the Bioregional Health Framework itself. Read for this page: the whole text, including the partner, open-question and other-frameworks sections. The images were not available, only their descriptions.*
+
+## What it argues
+
+The page argues that most existing data systems are fragmented, overly technical or cut off from lived experience (raw/bioregional-health-framework-2026-09-24.md, Bioregional Observatories). It proposes a Bioregional Observatory as "the intelligence, observation and sense-making hub" for a bioregion's communities and its BFF (raw/bioregional-health-framework-2026-09-24.md, Bioregional Observatories). A seven-step path runs from feasibility research to a legal and governance framework (raw/bioregional-health-framework-2026-09-24.md, How to get started).
+
+The Health Framework gives the observatory a shared structure. It reads health through four dimensions: structural, compositional, functional and relational integrity (raw/bioregional-health-framework-2026-09-24.md, Four interdependent dimensions). Ecological thresholds and carrying capacity constrain all four, and are not a fifth dimension (raw/bioregional-health-framework-2026-09-24.md, Living within carrying capacity).
+
+The framework focuses on outcomes and leaves each place to build its own indicators (raw/bioregional-health-framework-2026-09-24.md, The Bioregional Health Framework). It treats health as something that develops over time, and measurement as a tool for learning and shared stewardship (raw/bioregional-health-framework-2026-09-24.md, The Bioregional Health Framework).
+
+## Key points
+
+- **Five observatory functions.** The observatory would develop health metrics, monitor them and host collective sense-making (raw/bioregional-health-framework-2026-09-24.md, Five core functions). It would also model scenarios, stress-test systems and feed results back into decisions (raw/bioregional-health-framework-2026-09-24.md, Five core functions).
+- **Three kinds of data.** Monitoring covers hard data such as water quality, warm data on relationships and stories, and patterns such as circularity (raw/bioregional-health-framework-2026-09-24.md, Five core functions).
+- **A link to capital.** Decision support spaces, such as situation rooms or decision theatres, would bring data and community views into BFF investment committee deliberations (raw/bioregional-health-framework-2026-09-24.md, Five core functions).
+- **Four dimensions.** Structural integrity asks how habitats, infrastructure and governance are organised. Compositional integrity asks how diverse the living and human elements are (raw/bioregional-health-framework-2026-09-24.md, Four interdependent dimensions). Functional integrity asks whether essential processes and services keep working. Relational integrity asks about trust, care, justice and agency (raw/bioregional-health-framework-2026-09-24.md, Four interdependent dimensions).
+- **Example methods.** Each factor comes with ways to assess it (raw/bioregional-health-framework-2026-09-24.md, Four interdependent dimensions). These range from habitat fragmentation mapping and species diversity indices to power-concentration heatmaps and trust surveys (raw/bioregional-health-framework-2026-09-24.md, Four interdependent dimensions).
+- **Whole-system outcomes.** Twelve outcomes describe what a healthy bioregion produces, such as expanding biodiversity, growing equity and decreasing loneliness (raw/bioregional-health-framework-2026-09-24.md, What health looks like). They are not scored per dimension (raw/bioregional-health-framework-2026-09-24.md, What health looks like).
+- **Open questions.** Governance, data sovereignty, links to existing data and long-term revenue models remain open (raw/bioregional-health-framework-2026-09-24.md, Open questions). The page asks how to inform BFF allocation "without reducing complex knowledge to simplistic metrics" (raw/bioregional-health-framework-2026-09-24.md, Open questions).
+- **Borrowed foundations.** The first three dimensions adapt the Landbanking Group's "Ecosystem Integrity Index" (raw/bioregional-health-framework-2026-09-24.md, Inspirations & acknowledgements). The page also points to Cornerstone Indicators, Commonland's 4 Returns, Doughnut Economics, DPSIR, Regen10, r3.0 and Planetary Boundaries (raw/bioregional-health-framework-2026-09-24.md, Other frameworks & inspiration).
+
+## Where it sits in this wiki
+
+- [[Tay Bioregion Stocktake and Gap Analysis (2025)]]: Tayside found no bioregion-wide health measure, and this framework offers one starting point (synthesis).
+- [[BFF Discovery Arc 1: Allocation Decision Governance]]: the observatory is meant to inform BFF allocation decisions, the subject of this arc (synthesis).
+- [[Bioregional Financing Facilities (book, 2024)]]: the page links to the BFF book wherever it names a Bioregional Financing Facility.
+- [[The Dark Matter Labs bioregions platform]]: the site that hosts this page.
+
+
+---
+
+<!-- page: Bioregioning as Critical Infrastructure (Seefeld, 2026) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregioning-critical-infrastructure-summary.md -->
+
+---
+type: summary
+title: Bioregioning as Critical Infrastructure (Seefeld, 2026)
+description: An essay arguing that bioregioning is strategic infrastructure for Europe in an age of degenerative volatility, and that finance will reorient around foundational economies.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregioning, degenerative-volatility, optionality, foundational-economies, security-economics, resilience, europe]
+sources: []
+---
+
+# Bioregioning as Critical Infrastructure (Seefeld, 2026)
+
+*An eight-page essay by Leon Seefeld, "with thoughts from Indy Johar", dated 11 May 2026. Its subtitle is "Why Place-Based Systems Matter in an Age of Degenerative Volatility" (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 1). Read for this page: all eight pages.*
+
+## What it argues
+
+Seefeld describes a Europe where volatility and uncertainty are rising, trust is breaking and soils are losing fertility (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 1). He calls this an Age of Degenerative Volatility, in which the baselines for regenerative work are eroding (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 1). Resilience tends to be shaped in place, and Europe's strength reflects the condition of its places in aggregate (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 1).
+
+The bioregion is the scale "where global forces become tangible, and where coherent response remains possible" (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 2). Bioregioning, the ongoing practice of restoring and stewarding place-based systems, therefore becomes strategic infrastructure (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 3).
+
+The essay then turns to finance. The stability of returns depends more and more on foundational economies (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 5). Seefeld expects Security Economics to drive the debate more than market economics, with a focus on continuity over efficiency (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 6). Capital for bioregional resilience is foundational, like investment in transport or digital infrastructure (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 7). The last page describes Dark Matter Labs' role. It is building an operating system for bioregioning: cascading risk sensing, multi-capital models, many-to-many agreement spaces and Bioregional Financing Facilities (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 8).
+
+## Key points
+
+- **A bioregion is a life-place.** Climate, water, soils, biodiversity and settlement shape it. Its boundaries are functional and emerge from living systems and cultural practice (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 2).
+- **The right scale.** Bioregions are large enough for systemic dynamics, yet small enough for visible feedback and for people to care (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 3).
+- **Existing groundwork.** Community organisers and place-based institutions have spent years, sometimes decades, building trust and informal governance at this scale (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 3).
+- **Optionality.** "Optionality is a perishable resource" (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 4). Without renewal, places are pushed "into corridors of necessity rather than horizons of possibility" (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 4).
+- **A security issue.** The stake is the autopoietic capacity of place: a system's ability to reproduce, maintain and evolve itself (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 5). Stewardship institutions such as commons, trusts, Bioregional Observatories and Bioregional Financing Facilities can hold long-term commitments (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 5).
+- **Foundational economies.** These are water, food, energy, health, housing, social care and transport. All other value creation depends on them (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 5).
+- **A worked example.** Restoring an upstream watershed can stabilise flows, reduce flood risk and improve water quality. That protects yields and reduces insurance volatility downstream (raw/[public] Bioregioning as Critical Infrastructure.pdf, pp. 6 to 7).
+- **For asset allocators.** Diversification offers limited protection when underlying systems degrade (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 6). The question becomes "how early and how effectively they engage with it" (raw/[public] Bioregioning as Critical Infrastructure.pdf, p. 7).
+
+## Where it sits in this wiki
+
+- [[The Believed Law of Financial Returns (Seefeld, 2026)]] builds on this essay's claim that resilience is productive infrastructure.
+- [[The 5 Options of Our Time (Seefeld, 2026)]] treats Security Economics as a shift of frame.
+- [[Bioregioning Through Bindings (Johar, 2026)]] shares the image of a future narrowing into a corridor of necessity, but questions boundary-first definitions of a bioregion (synthesis).
+- [[The Bioregional Health Framework]] supports the Bioregional Observatories this essay names as stewardship institutions (synthesis).
+- [[Bioregional Financing Facilities (book, 2024)]] sets out the financing institution the essay names on its last page.
+
+
+---
+
+<!-- page: Bioregioning Tayside: the BFF page and interviews | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregioning-tayside-bff-summary.md -->
+
+---
+type: summary
+title: "Bioregioning Tayside: the BFF page and interviews"
+description: Bioregioning Tayside's project page and two linked interviews on building Scotland's first Bioregional Financing Facility, from stocktake to pilots.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [tayside, scotland, bff, interviews, regenerative-finance, bioregional-governance]
+sources: []
+---
+
+# Bioregioning Tayside: the BFF page and interviews
+
+*Three pages from the Bioregioning Tayside website, captured on 24 September 2026. The first is the project page for the Bioregional Finance Facility. The other two are interviews it links, both published by Bioregioning Tayside. The interview of 5 January 2025 is with the facility's lead architect from Dark Matter Labs. The interview of 4 August 2025 is with a co-designer who joined the team in 2025. Read for this page: all three pages in full. Interviewees are described by role.*
+
+## What it argues
+
+Bioregioning Tayside calls the facility its "latest and most ambitious project to date" (raw/bioregioning-tayside-bff-pages-2026-09-24.md, project page). It is working with Dark Matter Labs to build Scotland's first Bioregional Financing Facility (BFF) (raw/bioregioning-tayside-bff-pages-2026-09-24.md, project page).
+
+The first interview argues that more money for nature is insufficient on its own. Money that flows through the existing financial architecture risks further commodification, privatisation and centralisation of natural assets (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025). Where money goes, how it is structured and who decides "is as important as the quantum of capital" (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025).
+
+The second interview places BFFs inside regenerative finance (ReFi). It likens ReFi to the underground fungal network, and BFFs to "the fruiting bodies" that appear in a particular place (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025). It argues for moving step by step: start small, test mechanisms and learn by doing (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025).
+
+## Key points
+
+- **What a BFF is.** The lead architect calls BFFs a new layer in the global financial architecture (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025). They decentralise financial governance, design portfolios for systemic change and support a regenerative economy at bioregional scale (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025).
+- **Portfolios.** BFFs bundle smaller projects into larger portfolios that can attract institutional investors (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025). Linking regenerative farming, watershed restoration and community energy allows "multi-solving at the portfolio level" (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025).
+- **More than funding.** The lead architect also frames BFFs as governance systems, capacity-building tools and mechanisms for accountability (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025).
+- **Why Tayside.** The Tay is Scotland's largest water catchment (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025). The region has research strengths in food, energy and water security, which the interview sees as a base for a future economy (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 5 January 2025).
+- **Stage 1.** Bioregioning Tayside completed a stocktake and gap analysis early in 2025 (raw/bioregioning-tayside-bff-pages-2026-09-24.md, project page). The co-designer says it assessed readiness across 15 key elements and plugged several gaps (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025).
+- **Stage 2.** The next stage maps ecological regeneration opportunities, then asks how to value that work and who allocates capital (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025). The long-term aim ties investment returns to biodiversity, water quality, soil health and social cohesion (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025).
+- **Pilots and the plan.** Pilot projects should be rooted in local communities and diverse in theme, scale, sector and people (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025). A Bioregional Plan, co-created with communities, is meant to guide the financing and investment strategy (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025).
+- **Advice for the team.** The co-designer stresses psychological safety, bold experiments and a regular return to core values (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025). The interview draws on adrienne maree brown's Emergent Strategy (raw/bioregioning-tayside-bff-pages-2026-09-24.md, interview of 4 August 2025).
+
+## Where it sits in this wiki
+
+- [[Tay Bioregion Stocktake and Gap Analysis (2025)]]: the stage 1 report that these pages describe and link to.
+- [[Bioregional Financing Facilities (book, 2024)]]: the book the lead architect co-authored, which the first interview illustrates and links.
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]]: the second interview names blended finance as a ReFi trend, which this arc takes up (synthesis).
+- [[BFF Discovery Arc 1: Allocation Decision Governance]]: both interviews ask who decides how capital is allocated, the question this arc addresses (synthesis).
+
+
+---
+
+<!-- page: Bioregioning Through Bindings (Johar, 2026) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregioning-through-bindings-summary.md -->
+
+---
+type: summary
+title: Bioregioning Through Bindings (Johar, 2026)
+description: Indy Johar's essay proposing that a bioregion is a living relational body of bindings and knots, and that institutions and capital should start from those relationships.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregioning, bindings-and-knots, boundaries, responsibility, relational-finance, governance]
+sources: []
+---
+
+# Bioregioning Through Bindings (Johar, 2026)
+
+*A public Substack essay by Indy Johar, titled "Bioregioning through Bindings and Knots" with the subtitle "Beyond Boundaries". It was published on 5 October 2026 (raw/bioregioning-bindings-and-knots-2026-10-05.md, header). The essay has no section headings, so locators below are paragraph numbers. Read for this page: the whole essay, all 15 paragraphs.*
+
+## What it argues
+
+Johar challenges a habit: imagining bioregions as new territories, larger than cities and more ecologically informed, yet still defined by boundaries (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 1). A boundary creates an inside and an outside. It produces a new "other" to whom consequences can be displaced (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 1). Even a boundary drawn from ecological knowledge can turn a living field into an enclosed object (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 3).
+
+He proposes instead that a bioregion is a living relational body made of bindings and knots (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 1). Boundaries can still help to describe a place and act within it. Johar denies them only the role of founding theory (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 2).
+
+The second half draws out what follows for risk, responsibility, authority, institutions and capital. Its conclusion is that bioregioning begins when relationships become the basis of shared commitments (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 15).
+
+## Key points
+
+- **A binding.** It is "a relationship through which the condition of one participant matters to the viability, agency or future possibilities of another" (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 4). Bindings can be material, social, legal and temporal (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 4).
+- **A knot.** A knot is a configuration in which several bindings shape one another. It holds difference and tension without merging its participants (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 5).
+- **The water knot.** Rainfall alone does not show whether a place stays hydrated. That depends on soils, vegetation, groundwater, settlements and the institutions governing use (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 6).
+- **Risk travels through bindings.** A weakening water knot can undermine food production and livelihoods, which then deepens the original damage (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 8).
+- **Some bindings harm.** Debt can bind a community to extraction. Bioregioning needs judgement about which bindings to repair, loosen or remake (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 9).
+- **Responsibility is uneven.** It follows causal contribution, exposure, benefit and capacity to respond (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 10). A binding establishes relevance. Authority still needs legitimate grounds, and affected parties must be able to contest decisions (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 11).
+- **Capital follows the relationships.** A bioregional financing facility would gather distributed benefits, costs and responsibilities into a capacity for stewardship. "The object of investment becomes the capacity to keep multiple futures possible" (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 13).
+- **An ongoing inquiry.** Maps must stay revisable. "A complete map is neither available nor a precondition for responsibility" (raw/bioregioning-bindings-and-knots-2026-10-05.md, paragraph 14).
+
+## Where it sits in this wiki
+
+- [[Bioregioning as Critical Infrastructure (Seefeld, 2026)]] defines bioregions by functional boundaries. This essay questions starting from any boundary at all (synthesis).
+- [[The Dark Matter Labs bioregions platform]] describes bioregions through hard, soft and human lines. Johar would treat such lines as tools for description (synthesis).
+- [[Bioregional Financing Facilities (book, 2024)]] sets out the facility model that Johar re-reads as a way to share stewardship costs across a knot (synthesis).
+- [[RZ Studio (rz.capital)]] holds a position on security, written in the same relational terms (synthesis).
+
+
+---
+
+<!-- page: The Dark Matter Labs bioregions platform | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregions-platform-home-summary.md -->
+
+---
+type: summary
+title: The Dark Matter Labs bioregions platform
+description: The home page of Dark Matter Labs' bioregions platform, which defines bioregions and bioregioning and sets out a seven-part scaffold for bioregional teams.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregioning, dark-matter-labs, bioregion-definition, process-scaffold, bioregional-finance, toolkit]
+sources: []
+---
+
+# The Dark Matter Labs bioregions platform
+
+*The home page of bioregions.darkmatterlabs.org, a site run by Dark Matter Labs. This page describes the site as read on 24 September 2026 (raw/bioregions-darkmatterlabs-home-2026-09-24.md, header). Read for this page: the whole home page text. Images and scripts were not captured.*
+
+## What it argues
+
+The platform's tagline is "Making the Dark Matter of Bioregioning" (raw/bioregions-darkmatterlabs-home-2026-09-24.md, top heading). Dark Matter Labs says it is building supportive infrastructures for the field of bioregioning. These are meant to bridge the extractive logic of existing systems and the regenerative alternatives practitioners already live (raw/bioregions-darkmatterlabs-home-2026-09-24.md, intro). The hope is that place-based partners can then focus on their contextual work (raw/bioregions-darkmatterlabs-home-2026-09-24.md, intro).
+
+The page acknowledges that many practitioners have worked on bioregional topics far longer than Dark Matter Labs (raw/bioregions-darkmatterlabs-home-2026-09-24.md, intro). It presents its language as "one interpretation" and invites others (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What bioregioning means to us). Its work runs across three stages: Provocation, Building and Diffusion. Through the RZ Studio it also allocates capital to place-based partners and co-builds with them (raw/bioregions-darkmatterlabs-home-2026-09-24.md, intro).
+
+## Key points
+
+- **Bioregions are "whole-life places".** They organise around the patterns of life in a place. They are more than supply-sheds of water, food, minerals and fibre (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What the word Bioregion means to us).
+- **Three kinds of line.** Bioregions are defined by hard lines (geological, tectonic), soft lines (ecological, climatological) and human lines (cultural, identity). They can overlap and nest (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What the word Bioregion means to us).
+- **Who draws the boundary.** The page says a bioregion's boundaries are best defined by the people who live or have lived there (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What the word Bioregion means to us).
+- **Bioregioning as a verb.** Bioregionalism supplies the maps and principles, while "bioregioning is the verb" (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What bioregioning means to us). It is described as both repair and reimagination (raw/bioregions-darkmatterlabs-home-2026-09-24.md, What bioregioning means to us).
+- **Seven parts.** The scaffold runs: Preparation, Mapping and Analysis, Convening and Activation, Strategy Development, Portfolio, Measurement, Evaluation and Learning, and Financing. Communications and embeddedness run alongside all of them (raw/bioregions-darkmatterlabs-home-2026-09-24.md, process scaffold).
+- **No fixed order.** The page calls the sequence "a practical scaffold rather than a step-by-step process", with looping back and forth (raw/bioregions-darkmatterlabs-home-2026-09-24.md, process scaffold).
+- **Long horizons and shared registers.** A Bioregional Regeneration Strategy is a plan of 20 to 100+ years (raw/bioregions-darkmatterlabs-home-2026-09-24.md, Strategy Development). The Portfolio is a registry of all mission-aligned action that helps identify financing needs over time (raw/bioregions-darkmatterlabs-home-2026-09-24.md, Portfolio).
+- **Financing comes last in the list.** It calls for a locally rooted architecture of financial infrastructure that matches flows to bioregional priorities (raw/bioregions-darkmatterlabs-home-2026-09-24.md, Financing).
+
+## Where it sits in this wiki
+
+- [[The bioregions platform: programmes and pages]] summarises the tools, publications and programmes behind each part of this home page.
+- [[RZ Studio (rz.capital)]] is the capital-allocation studio the home page names.
+- [[The BFF Pattern Cards]] and the BFF Game appear in the site's main navigation (raw/bioregions-darkmatterlabs-home-2026-09-24.md, navigation).
+- [[Bioregioning Through Bindings (Johar, 2026)]] questions starting from boundaries, which sits in tension with the hard, soft and human lines defined here (synthesis).
+- [[Bioregional Financing Facilities (book, 2024)]] develops the financing part of the scaffold in depth (synthesis).
+
+
+---
+
+<!-- page: The bioregions platform: programmes and pages | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/bioregions-platform-subpages-summary.md -->
+
+---
+type: summary
+title: "The bioregions platform: programmes and pages"
+description: The inner pages of Dark Matter Labs' bioregions platform, with an open toolbox for bioregional teams, the BFF book and game, publications, and ways to engage.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregioning, dark-matter-labs, toolbox, bff-game, bioregional-observatory, bioregional-finance, publications]
+sources: []
+---
+
+# The bioregions platform: programmes and pages
+
+*The inner pages of bioregions.darkmatterlabs.org, run by Dark Matter Labs. This page describes the site as read on 24 September 2026 (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, header). The snapshot holds 45 page extracts, about 9,500 words. Read for this page: every extract, from "5-year Forecasting" to "Towards multivalent currencies". Linked documents outside the site were not read.*
+
+## What it argues
+
+The inner pages turn the home page's seven-part scaffold into resources. The Toolbox page says Dark Matter Labs is building open-source versions of each component "as fast as we can" (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Toolbox). Each phase page then lists the tools and readings that belong to it (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, phase pages 1 to 7).
+
+Around the toolbox sit three programmes. The first is the book on Bioregional Financing Facilities. The second is a card-based BFF Game. The third is a stream of provocations, briefings and partner stories (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Book, BFF Game and News pages). Several pages are marked as still in progress (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Toolbox).
+
+## Key points
+
+- **Working templates.** A 5-year forecasting template projects profit and loss, balance sheet and cashflow monthly, without needing financial expertise (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, 5-year Forecasting). Others cover asset and liability mapping, a financial strategy, a Notion portfolio database and a legal setup flowchart (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Toolbox).
+- **Readiness before facilities.** The Stocktake and Gap Analysis template covers 15 core elements. Teams use it to find gaps before developing a BFF (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Stocktake & Gap Analysis). Its worked example is Bioregioning Tayside (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Tay Bioregion page).
+- **Sensing and measuring.** A Bioregional Systemic Risk Register lists hazards, vulnerabilities and feedbacks for teams to filter locally (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Bioregional Systemic Risk Register). A Bioregional Observatory would act as the intelligence and sense-making hub for a bioregion and its BFF (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Concept Note: Bioregional Observatories).
+- **Health as the mandate.** One page says BFFs draw their mandate from strengthening Bioregional Health. It proposes a draft scaffold of structural, compositional and functional integrity, covering human and non-human health (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Exploration: Bioregional Health Framework).
+- **The book's warning.** Nature finance routed through today's architecture risks "further commodification, privatisation, financialisation, and centralisation of natural assets and wealth" (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Book page). The book names six features of a BFF, from Bioregional Focus to a Bioregional Health Mandate (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Book page).
+- **The BFF Game.** Players take roles such as investors, communities, public institutions and stewards, and combine Pattern Cards into a financing architecture. Its premise is "No single participant can finance the transition alone" (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, BFF Game). A test at Katapult Future Fest 2026 ran three tables of 10+ players and 8 projects (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Testing the BFF Innovation Game).
+- **News.** At a BioFi Deep Dive on 2 September 2026, Leon Seefeld launched the RZ Studio and the European Headwaters Flow Fund (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, BioFi Deep Dive). A Bioregional Briefing Room series shares recorded talks, including one with Audrey Tang in August 2025 (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Bioregional Briefing Room Ep. 1).
+- **Partners and engagement.** The About page lists nine organisational partners, among them Bioregioning Tayside, Findhorn Watershed Initiative and Bioregional Weaving Labs (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, About). The Engage page names a Substack as the main channel and plans workshops and working clinics (raw/bioregions-darkmatterlabs-subpages-2026-09-24.md, Engage).
+
+## Where it sits in this wiki
+
+- [[The Dark Matter Labs bioregions platform]] is the home page these inner pages sit under.
+- [[Bioregional Financing Facilities (book, 2024)]] is the book the site promotes and summarises.
+- [[The BFF Pattern Cards]] is the card set behind the BFF Game.
+- [[Tay Bioregion Stocktake and Gap Analysis (2025)]] is the worked example for the stocktake template.
+- [[The Bioregional Health Framework]] is the framework the Bioregional Health Framework and Observatory page links to.
+
+
+---
+
+<!-- page: BFF Discovery Arc 1: Allocation Decision Governance | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/discovery-arc-1-allocation-governance-summary.md -->
+
+---
+type: summary
+title: "BFF Discovery Arc 1: Allocation Decision Governance"
+description: A provocation paper asking how bioregional financing facilities can combine expert rigour with community-held knowledge when deciding where capital goes.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, discovery-arcs, capital-allocation, governance, participatory-finance, provocation-paper]
+sources: []
+---
+
+# BFF Discovery Arc 1: Allocation Decision Governance
+
+*Discovery Arc 1 is the first provocation paper in a series of four on Bioregional Financing Facilities (BFFs). Its cover reads "v.3.2", last updated 28 January 2026. Leon Seefeld is named as editor and main author, with contributions acknowledged from 21 named people. Read for this page: all 38 pages, including the process tables, the minimum-viable test, the principles and the hypothetical case story.*
+
+## What it argues
+
+The arc asks one question. How can expert quality control, usually a top-down process, be reconciled with democratic allocation grounded in the knowledge of people closest to a place? (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 2). Its answer is that each needs the other. "Quality control and democratic allocation are not mutually exclusive." (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 3). A process that ignores community intelligence will miss risks. A participatory process with no rigour will fail to earn the trust of outside capital (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 3).
+
+The paper sets the standard nine-phase investment process beside a proposed regenerative version. Mandate definition becomes mandate sensing. Due diligence becomes "we diligence". The investment committee becomes an allocation committee that seeks consent (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 5). It closes by calling for models of discernment that are "rigorous without being technocratic, participatory without being populist" (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 30).
+
+## Key points
+
+- **Shared governance is rare.** On a best-guess basis, only 0.3% to 0.7% of funds globally practise genuine shared governance in capital allocation, as of 2025. The share by assets is likely lower still (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 4).
+- **Where power sits today.** In a conventional fund, real decision power concentrates in three places: the limited partners or board, the CIO and managing partners, and the investment committee. Risk and compliance act as an underrated veto (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 10 to 11).
+- **Six circles.** The proposed set-up has six circles: Purpose, Pattern, Consent, Capital, Portfolio and Learning. Rotating representatives from each would form the allocation committee (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 11 and 22).
+- **Fractal by design.** No single group can know a whole bioregion. Governance must therefore be fractal, with small groups holding coherence while many others feed in context (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 3 and 12).
+- **Emotion and place.** The process attends to fear, trust and responsibility in the room. Key moments should happen in person and in place, with contributors paid for their time. The authors accept this adds cost (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 13 to 14).
+- **Small tests first.** Suggested formats include a table-top simulation and a shadow round on an existing deal. Another is a "micro-allocation" pot of €10k to €30k run through the whole process (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 23 to 24).
+- **Eight principles to earn the mandate.** They include transparency of process, clear mandates, and decisions made in person and in place. "Without these embedded from the beginning, the BFF risks looking like another opaque fund with a new vocabulary." (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, pages 26 to 28).
+- **A fictional case.** The paper ends with an imagined Alder–Wye bioregion, which it says was written by an AI and refined by a person (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 32).
+
+## Where it sits in this wiki
+
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]] asks the next question: what should a facility's grant capital build?
+- [[BFF Discovery Arc 3: Risk and Value Sharing]] takes up an open question Arc 1 leaves. Investors can withdraw when risk rises, while communities cannot (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 18). Arc 3 designs for that asymmetry (synthesis).
+- [[BFF Discovery Arc 4: Multi-Capital Returns]] develops the "multi-capital target returns" that Arc 1 puts into the mandate-sensing phase (raw/[public]_v3_BFF Allocation Decision Governance_DiscoveryArc#1_28.01.2026.pdf, page 13) (synthesis).
+- [[The Bioregional Health Framework]] supplies the definition of health that Arc 1 makes the test of every allocation decision (synthesis).
+- [[BioFi Deep Dive: bioregional financing facilities in Europe]] presents the four arcs as one Bioregional Weaving Labs programme. It says Arc 1 governance is being tested across three BFF prototypes.
+
+
+---
+
+<!-- page: BFF Discovery Arc 2: Blended Finance and Catalytic Capital | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/discovery-arc-2-blended-finance-summary.md -->
+
+---
+type: summary
+title: "BFF Discovery Arc 2: Blended Finance and Catalytic Capital"
+description: A provocation paper arguing that grant capital in bioregional finance should build local governance, trust and financial sovereignty, and should rarely backstop investor returns.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, discovery-arcs, blended-finance, catalytic-capital, de-risking, grant-capital, provocation-paper]
+sources: []
+---
+
+# BFF Discovery Arc 2: Blended Finance and Catalytic Capital
+
+*Discovery Arc 2 is the second provocation paper in a series of four on Bioregional Financing Facilities (BFFs). The filename dates it 20 March 2026, but the paper itself says it was last updated on 18 June 2026. Leon Seefeld is named as editor and main author, "supported by AI" (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 34). Read for this page: all 34 pages, including the reading list and the note on Daniela Gabor.*
+
+## What it argues
+
+The arc asks: "If Bioregional Health is the ultimate goal, what is the most catalytic use of grant capital" in place-based regeneration? (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 2). Its target is the default use of public and philanthropic money to absorb risk for private investors, through first-loss layers, guarantees and concessional terms (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 2).
+
+The hypothesis is that willing capital is plentiful. What is missing is infrastructure: governance, trust, visibility and pathways for capital to flow (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 3). The paper proposes using grants to "reduce risk at the root" by building that infrastructure (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 4). It then goes further, towards grants that make outside subsidy unneeded. "The objective is sovereignty." (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 14).
+
+The paper admits it takes a deliberately one-sided stance. Its final note restates the choice more neutrally. One option crowds in more money at the cost of extractive behaviour. The other aligns capital with regeneration at the cost of less money (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 22).
+
+## Key points
+
+- **The critique.** Conventional blended finance socialises risk onto public and philanthropic actors and privatises the upside. The paper says this breeds moral hazard and fragility, as well as inequity (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 3).
+- **First-loss as the exception.** Guarantees and first-loss capital keep a place. They should be time-bound, conditional and mission-aligned, used mainly when a bioregion needs large sums quickly (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 4).
+- **Systemic de-risking.** Grants can fund technical assistance, Bioregional Observatories, community legitimacy filters, embedded due diligence partners, community monitoring and investor learning journeys. Each lowers risk before capital arrives (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, pages 8 to 10).
+- **Beyond de-risking.** Grants can seed circular capital structures and steward-owned or cooperative enterprises. They can also fund community assets held in common, local investment funds, local currencies and membership-based investor platforms (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, pages 13 to 14).
+- **The strongest counter-argument is stated.** Fully concessional capital may leave a facility more fragile, because growth then depends on finding investors willing to make concessions (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 17).
+- **Unrestricted money works.** Expert conversations found that funding with few or no strings is highly catalytic in bioregions. This holds however local people choose to use it (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, page 22).
+- **Wider context.** An appendix summarises Daniela Gabor's "Wall Street Consensus" and the "de-risking state". It also lists further reading from Tideline, the IFC, the OECD and Convergence (raw/[public]_v3_BFF Blended Finance & Catalytic Capital_DiscoveryArc#2_20.03.2026.pdf, pages 24 to 32).
+
+## Where it sits in this wiki
+
+- [[BFF Discovery Arc 1: Allocation Decision Governance]] comes first in the series and asks who decides. Arc 2 asks what grant money should build. Both name the Bioregional Observatory as shared infrastructure (synthesis).
+- [[BFF Discovery Arc 3: Risk and Value Sharing]] lists a portfolio-level first-loss layer, funded by philanthropic or public capital, among its mechanisms. That sits in tension with Arc 2's call to keep first-loss the exception (synthesis).
+- [[BFF Discovery Arc 4: Multi-Capital Returns]] widens what counts as a return, which would change what "de-risking" protects (synthesis).
+- [[BioFi Deep Dive: bioregional financing facilities in Europe]] says this arc is developing a replicable capital stack model for other facilities.
+- [[Bioregional Financing Facilities (book, 2024)]] sets out the facility model whose capital stack this arc questions.
+
+
+---
+
+<!-- page: BFF Discovery Arc 3: Risk and Value Sharing | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/discovery-arc-3-risk-value-sharing-summary.md -->
+
+---
+type: summary
+title: "BFF Discovery Arc 3: Risk and Value Sharing"
+description: A provocation paper proposing that a bioregional portfolio pool risk and circulate value among its projects, with investors and the wider bioregion inside the design.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, discovery-arcs, risk-sharing, value-sharing, portfolio-design, mutualism, provocation-paper]
+sources: []
+---
+
+# BFF Discovery Arc 3: Risk and Value Sharing
+
+*Discovery Arc 3 is the third provocation paper in a series of four on Bioregional Financing Facilities (BFFs). Its cover reads "v.3.1", last updated 15 September 2026. The paper names no author. Read for this page: all 31 pages. The mechanism tables on pages 8 to 10 extract as scrambled text, so this page names those mechanisms without detailing each one.*
+
+## What it argues
+
+The arc asks how projects in a bioregional portfolio should share risk and value "so that collective resilience, trust, and mutual advancement can emerge" (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 2). Conventional portfolios treat each project alone. In a bioregion the projects already depend on one another, so that logic works against the shared goal (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 2). "The portfolio is more than a container—it becomes a commons in itself." (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 2).
+
+The paper says the design must work in three directions at once. It needs solidarity within the portfolio, reciprocity between capital and place, and responsibility toward the wider bioregion (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 3). Its closing line sums up the stance: "In such a portfolio, failure is not abandonment, and success is not isolation." (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 31).
+
+## Key points
+
+- **Correlation is a strength here.** Portfolio theory diversifies away correlated risk. Bioregional projects are already correlated by geography, ecology and policy, and the paper treats that interdependence as something to harness (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 3).
+- **Evidence from mutual finance.** Research from microfinance and cooperative finance suggests peer support and shared accountability can lower default risk. Moral hazard tends to appear where governance is weak (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 5).
+- **Mechanisms within the portfolio.** These include portfolio-level risk pools, mutual guarantees, mutual credit, shared infrastructure, steward-ownership conversion, orderly wind-down, and a "portfolio weaver" role (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, pages 8 to 9).
+- **Mechanisms with investors.** These include drawdown-triggered capital, a portfolio-level first-loss layer and conditional return deferral. Others draw returns from whole-portfolio revenue, or let the portfolio buy back investor stakes over time (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, pages 9 to 10).
+- **Mechanisms with the bioregion.** These include local supply networks, a multi-capital clearing system, an open resilience buffer for non-members during shocks, and shared early-warning networks (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, pages 9 to 10).
+- **The Sleipnir case.** Stichting Sleipnir, a Dutch foundation founded in the 1980s, holds its member enterprises outside private ownership. Members pay 1% of turnover into a common liquidity fund, and loans from it are decided collectively (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, pages 11 and 13).
+- **Sleipnir under stress.** During COVID-19 it moved staff, capital and loan relief between members, and no member went bankrupt. Investor returns are capped, and members cannot be sold for an exit (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 14).
+- **Legal form is secondary.** An investment fund, a cooperative and a holding company each help and hinder sharing in different ways. The paper concludes that "the legal form alone does not determine whether risk and value are shared effectively" (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, page 20).
+- **Start with relationships.** Practical advice opens with trust between members, then a clear purpose for pooling, then small, time-bound experiments (raw/[external]_v4_BFF Risk & Value Sharing_DiscoveryArc#3_15.09.2026.pdf, pages 23 to 24).
+
+## Where it sits in this wiki
+
+- [[BFF Discovery Arc 1: Allocation Decision Governance]] decides which projects enter the portfolio. Arc 3 asks how those projects then carry risk and value together. Arc 1 leaves open how to rebalance risk between investors and communities, and Arc 3 takes that up (synthesis).
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]] argues that first-loss capital should be the exception. Arc 3 keeps a portfolio-level first-loss layer as one option, which places it at the portfolio rather than the single project (synthesis).
+- [[BFF Discovery Arc 4: Multi-Capital Returns]] supplies the wider idea of value that Arc 3's multi-capital clearing system would need to track (synthesis).
+- [[The BFF Pattern Cards]] catalogue related instruments in card form, such as steward ownership and risk pools (synthesis).
+- [[BioFi Deep Dive: bioregional financing facilities in Europe]] presents the four arcs as one Bioregional Weaving Labs programme. It also reports that portfolio weavers have proved a highly useful role in practice.
+
+
+---
+
+<!-- page: BFF Discovery Arc 4: Multi-Capital Returns | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/discovery-arc-4-multi-capital-returns-summary.md -->
+
+---
+type: summary
+title: "BFF Discovery Arc 4: Multi-Capital Returns"
+description: A provocation paper arguing that every allocation of capital yields returns across many capitals, and that place-based resilience is the return that holds the others together.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [bioregional-financing-facilities, discovery-arcs, multi-capital-returns, resilience, impact-measurement, provocation-paper]
+sources: []
+---
+
+# BFF Discovery Arc 4: Multi-Capital Returns
+
+*Discovery Arc 4 is the fourth provocation paper in a series of four on Bioregional Financing Facilities (BFFs). Its cover reads "v.1.1", last updated 15 September 2026, and its own title speaks of "poly-capital returns". The paper names no author. The filename carries an older "internal" label. The document itself carries no confidentiality marking, and Leon Seefeld of Dark Matter Labs has cleared it for publication. Read for this page: all 27 pages. One case study, on Civic Square, is an unfinished placeholder and is left out.*
+
+## What it argues
+
+The arc asks how BFFs can measure, communicate and govern for returns across many forms of capital. Doing so would change what counts as successful investment (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 2). Its premise is that every allocation already produces many returns: in soil, trust, skills, water and local supply chains. Finance measures only one of them (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 2). "The returns exist regardless of whether accounting systems acknowledge them." (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 5).
+
+So the useful questions change. Which returns does an investment produce, along which pathways, for whom, over what time, and which institutions can see them? (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 3). The paper treats resilience as special. It emerges from the other capitals working together and keeps future returns possible. In the conclusion, "resilience becomes the paramount return" (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 27).
+
+## Key points
+
+- **The gap is in recognition.** Measures such as IRR and NPV compress value into one figure and favour what is immediate and contractible. The paper locates the mismatch in measurement and recognition, while the value itself is real (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 3 to 4).
+- **Returns circulate.** A wetland, a youth jobs programme or an energy cooperative each sends value through many actors before it returns, often as lower risk. Attention shifts from capture to propagation (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 4 to 5).
+- **A step past impact-linked finance.** Impact-linked instruments adjust financial terms for selected outcomes. The paper suggests much "impact" is simply return that lands on other capitals, actors or time horizons (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 5 to 6).
+- **Eight practical approaches.** They include multi-domain return frameworks, community-led evaluation, maturation curves for when each return appears, shared capital ledgers and portfolio-level return mapping. The authors say this section is under-developed (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 8 to 9).
+- **Two inspirations.** Commonland's 4 Returns puts inspiration first, then social, natural and financial capital. Shorefast's Economic Nutrition, on Fogo Island, traces where the value of economic activity goes in a place (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 11 to 13).
+- **Financial return itself is wider.** Illustrative work on the Orne watershed suggests avoided losses and new value could together exceed €1.7 billion over a decade. That is far above the direct project returns (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 15).
+- **Resilience as a higher-order return.** Drawing on SYSTEMIQ, the paper treats resilience as an economic dividend as well as a safeguard. It frames resilience as a property of the whole system (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, pages 18 to 20).
+- **Open questions.** They include governing trade-offs between domains and avoiding a heavy reporting burden. Another is matching decades-long returns with three-to-seven-year term sheets (raw/[internal]_v1_BFF Multi-Capital Returns_DiscoveryArc#4_15.09.2026.pdf, page 22).
+
+## Where it sits in this wiki
+
+- [[BFF Discovery Arc 1: Allocation Decision Governance]] already puts "multi-capital target returns" into a facility's mandate. Arc 4 asks what those returns are and how to see them (synthesis).
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]] argues that grants should build infrastructure such as observatories. Arc 4 says a Bioregional Observatory can help build shared capital ledgers locally (synthesis).
+- [[BFF Discovery Arc 3: Risk and Value Sharing]] proposes a multi-capital clearing system for a portfolio. Arc 4 supplies the account of value that system would track (synthesis).
+- [[The Bioregional Health Framework]] also draws on Commonland's 4 Returns and gives the measures of place-based health that Arc 4 relies on (synthesis).
+- [[The Believed Law of Financial Returns (Seefeld, 2026)]] questions the belief that financial return must organise capital allocation. Arc 4 makes a parallel case from the side of measurement (synthesis).
+- [[BioFi Deep Dive: bioregional financing facilities in Europe]] presents the four arcs as one Bioregional Weaving Labs programme. It says this arc is expanding the conversation on returns.
+
+
+---
+
+<!-- page: The 5 Options of Our Time (Seefeld, 2026) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/five-options-of-our-time-summary.md -->
+
+---
+type: summary
+title: The 5 Options of Our Time (Seefeld, 2026)
+description: Leon Seefeld's short essay setting out a 5-Options Framework and arguing that resilience may shift the frame of today's political and financial debates.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [five-options-framework, sense-making, security-economics, resilience, foundational-economies, frame-shift]
+sources: []
+---
+
+# The 5 Options of Our Time (Seefeld, 2026)
+
+*A six-page essay by Leon Seefeld of Dark Matter Labs, dated 19 June 2026, with the heading "When the Frame Shifts" (raw/The 5 Options of our Time.pdf, p. 1). Read for this page: all six pages.*
+
+## What it argues
+
+Seefeld starts from the familiar polarities of public debate. One side puts ecological recovery, social justice and collective responsibility first. The other side puts growth, prosperity, freedom and individual responsibility first (raw/The 5 Options of our Time.pdf, p. 2). Over time these positions hardened into identities (raw/The 5 Options of our Time.pdf, p. 2). Some people seek a middle path, such as green growth, ESG, impact investing or carbon pricing. Others propose different organising principles, such as gift economies, regenerative business and post-growth (raw/The 5 Options of our Time.pdf, p. 3).
+
+His central claim is that the frame itself can shift. He suggests that civilizational resilience may become the main organising principle of the coming decades. In a world of shocks and fragmentation, "continuity itself may become the overriding concern" (raw/The 5 Options of our Time.pdf, p. 3). Older questions then give way to questions about regional food systems, energy under stress and trust in institutions (raw/The 5 Options of our Time.pdf, p. 4). He calls this Option 5 and describes it as "a different game altogether" (raw/The 5 Options of our Time.pdf, p. 4).
+
+He then applies the idea to finance. Under what he calls a Security Economics frame, attention moves to foundational economies such as watersheds, energy systems, food security and social cohesion (raw/The 5 Options of our Time.pdf, p. 5). He closes by naming the hardest part as psychological: people become attached to the debates themselves (raw/The 5 Options of our Time.pdf, p. 5).
+
+## Key points
+
+- **The framework.** It builds on the tetralemma of Buddhist and Jain logic, which offered four positions: this, that, both and neither (raw/The 5 Options of our Time.pdf, p. 6). Seefeld adds a fifth option, "Shift the Frame", which makes the original question and options obsolete (raw/The 5 Options of our Time.pdf, p. 6).
+- **The five options in order.** This, That, Something in Between, Something Else, and Shift the Frame (raw/The 5 Options of our Time.pdf, p. 6).
+- **Option 5 follows a change of context.** Options 1 and 2 oppose each other, option 3 seeks compromise and option 4 offers alternatives. After a deep enough change, "The old map of possibilities ceases to be a useful map" (raw/The 5 Options of our Time.pdf, p. 5).
+- **History offers examples.** The essay names industrialisation, the digital revolution and major wars as shifts that reordered earlier disputes (raw/The 5 Options of our Time.pdf, p. 5).
+- **Earlier concerns remain.** Seefeld says they do not disappear: "they become subordinate to a larger reality" (raw/The 5 Options of our Time.pdf, p. 4).
+- **Finance has its own polarities.** He lists philanthropy versus investment, commercial returns versus impact, and shareholder versus stakeholder value (raw/The 5 Options of our Time.pdf, p. 5). Under a resilience frame these start to look odd as sides to pick (raw/The 5 Options of our Time.pdf, p. 5).
+- **Why foundational economies matter.** The essay gives one reason: they sustain the conditions on which all other value depends (raw/The 5 Options of our Time.pdf, p. 5).
+- **Two caveats.** The essay calls itself a simplification of diverse political identities. It also says the exercise asks for cognitive flexibility (raw/The 5 Options of our Time.pdf, p. 1).
+
+## Where it sits in this wiki
+
+- [[The Believed Law of Financial Returns (Seefeld, 2026)]] applies this framework to the split between market-rate investment and philanthropy.
+- [[Bioregioning as Critical Infrastructure (Seefeld, 2026)]] develops the Security Economics frame and the idea of foundational economies at greater length.
+- [[RZ Studio (rz.capital)]] states positions on security and returns that follow the same frame-shift logic (synthesis).
+- [[The Dark Matter Labs bioregions platform]] is where Seefeld's team turns these ideas into tools for bioregional teams (synthesis).
+
+
+---
+
+<!-- page: Relationalized Finance (Bollier and Hulst, 2025) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/relationalized-finance-summary.md -->
+
+---
+type: summary
+title: Relationalized Finance (Bollier and Hulst, 2025)
+description: An essay proposing noncapitalist, commons-based finance for bioregions, built around a regrantor fund that shields commons from the extractive demands of capital.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [relationalized-finance, commons, bioregioning, noncapitalist-finance, regrantor-fund, transvestment, bff]
+sources: []
+---
+
+# Relationalized Finance (Bollier and Hulst, 2025)
+
+*An essay by David Bollier and Natasha Hulst of the Schumacher Center for a New Economics, version 1.0, dated 8 December 2025 (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 1, 28). It runs to 28 pages in five sections. Read for this page: the whole essay. The essay is by outside authors, and this page is a summary in our own words, not a copy.*
+
+## What it argues
+
+The authors propose a noncapitalist finance for bioregions, which they call relationalized finance (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 1). They argue that green finance, ESG screens, carbon offsets and similar strategies have left the core logic of finance intact. Growth, returns and investor control remain in place (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 1-2). They cite a 2025 nature-finance report: over $7 trillion a year finances harm, while under $200 billion goes to protection or restoration (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 2).
+
+Relationalized finance exists to deepen social, economic and political relationships in a particular bioregion. It does not seek private financial gain (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 3). The authors describe it as "nonextractive, peer governed, place-specific, humane" (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 3). They judge state reform of finance a nonstarter for now, with some openings at municipal level (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 3).
+
+The central proposal is a regrantor fund, one possible form of bioregional finance facility. It sits as a buffer between funders and commons, so money arrives without transactional demands on the people who receive it (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 22-23). The authors name the move of money from capitalist circuits into commons-stewarded value transvestment (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 3, 26).
+
+## Key points
+
+- **The problem is ontological.** In the authors' view, price cannot express the value of living systems, because that value lives in their relationships (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 10-12). Making nature measurable so that markets can price it is, they argue, a category mistake (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 12).
+- **Commons as the vehicle.** Commoning gives people a proven way to govern shared wealth, limit extraction and meet needs fairly (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 7-8). The authors admit that commons can suffer from hierarchy, cliques and poor coordination (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 9).
+- **Six premises for a bioregional economy.** They include inalienable shared wealth, federated structures, peer governance before trade, and commons/public partnerships with the state (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 7).
+- **Socio-ecological markets.** Section 4 lists eighteen strategies, from land trusts and bioregional currencies to rotating savings groups, public procurement and community wealth building (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 16-21). Examples include BerkShares, Agrarian Trust and Terre de Liens (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 17-18).
+- **How the regrantor fund works.** Money would pool from commoners, allies, crowdfunding, supportive businesses, philanthropy and local government. Trustees from the commons and bioregional community would make the grants (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 23). The model is the foundations behind open source software such as Debian and Apache (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 23).
+- **Money stays at arm's length.** The fund follows a commoning pattern: "keep commoning and commerce distinct" (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 23). A strong culture of commoning has to come first.
+- **Peer judgement over single metrics.** The authors argue that a single bottom line is the wrong test for this kind of finance (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 27). They point to peer certification, such as Barcelona's Community Balance and the Participatory Guarantee Systems used by agroecological farmers (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 27).
+- **Coexistence with mainstream finance.** The authors say relationalized finance will not displace capitalist finance, and expect the two to coexist. Their bet is that its logic spreads and gains influence over time (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 25). Amsterdam and a citizen fund in Kingston, New York, are early experiments (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 27-28).
+
+## Where it sits in this wiki
+
+- [[Bioregional Financing Facilities (book, 2024)]]: the essay credits the BFF idea to Power and Seefeld's book (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, pp. 3, 21). It offers the regrantor fund as one type of BFF (raw/Relationalized_Finance_essay_version_1.0_December_8_2025.pdf, p. 22).
+- [[SI-SF: System Investing and System Finance (Codex 25)]]: a contrast. Codex 25 builds tools to price value and route it through contracts and securities. This essay warns that pricing living systems distorts them (synthesis).
+- [[BFF Discovery Arc 1: Allocation Decision Governance]]: regrantor trustees, flow funding and peer certification each answer who decides allocation (synthesis).
+- [[BFF Discovery Arc 4: Multi-Capital Returns]]: the essay doubts that living value should be measured as returns at all. That challenges multi-capital accounting (synthesis).
+
+
+---
+
+<!-- page: RZ Studio (rz.capital) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/rz-capital-summary.md -->
+
+---
+type: summary
+title: RZ Studio (rz.capital)
+description: The website of RZ Studio, which builds place-based capital allocation capacity with bioregional partners and sets out positions on returns, risk and security.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [rz-studio, capital-allocation, degenerative-volatility, returns, holding-risk, place-based-finance]
+sources: []
+---
+
+# RZ Studio (rz.capital)
+
+*The single-page website of RZ Studio at rz.capital. This page describes the site as read on 24 September 2026 (raw/rz-capital-2026-09-24.md, header). Read for this page: the whole page text. Linked documents were not read.*
+
+## What it argues
+
+RZ Studio describes its purpose as "Building place-based capital allocation capacity" (raw/rz-capital-2026-09-24.md, top heading). Its starting point is degenerative volatility, an era in which shocks arrive faster than institutions can adapt (raw/rz-capital-2026-09-24.md, Context). It believes that partners with years of civic legitimacy and closeness to real risk are the best place to allocate to resilience (raw/rz-capital-2026-09-24.md, Why).
+
+With those partners, it proposes, tests and replicates the legal, economic and governance structures for durable allocation into foundational systems (raw/rz-capital-2026-09-24.md, What). The site states the mission as "to radically re-code capital allocation" (raw/rz-capital-2026-09-24.md, mission). Eight short position statements set out how it thinks about returns, risk, power and security (raw/rz-capital-2026-09-24.md, RZ Positions). The site lists a team of four, including Leon Seefeld and Indy Johar of Dark Matter Labs (raw/rz-capital-2026-09-24.md, team).
+
+## Key points
+
+- **Five ways of working.** The studio offers co-creation, networks, inquiry capital, shared intelligence and allocation capital (raw/rz-capital-2026-09-24.md, studio offer). Allocation capital is a conditional anchor allocation into new capital architecture (raw/rz-capital-2026-09-24.md, Allocation Capital).
+- **Grafting.** Its hunch is to join capabilities for a time at critical points of development, then spread new capacities through a small cohort (raw/rz-capital-2026-09-24.md, How).
+- **Returns.** RZ holds that "every allocation of value, financial or otherwise, realises a return" (raw/rz-capital-2026-09-24.md, Returns+). It explicitly rejects the language of return-seeking capital and market-rate returns (raw/rz-capital-2026-09-24.md, Returns+).
+- **Degenerative volatility.** The site's test: "when the interval between shocks is shorter than the time required to recover, the system becomes structurally fatigued" (raw/rz-capital-2026-09-24.md, Degenerative Volatility+).
+- **Security as continuity.** In a systems view, security means continuity: keeping energy, food, water and connection flowing through shocks (raw/rz-capital-2026-09-24.md, Security+).
+- **Holding risk.** RZ seeks to hold risk alongside partners, by sharing exposure and staying engaged. It treats this as developmental capital that builds a system's capacity to absorb risk (raw/rz-capital-2026-09-24.md, Holding Risk+).
+- **Necessary and possible.** Near-term, concrete goals serve as entry points. The lasting product is the systemic capability built on the way (raw/rz-capital-2026-09-24.md, Holding Necessary & Possible+).
+- **Open questions.** These include multi-capital accounting, many-to-many agreements, systemic portfolios across whole bioregions, legal innovation and blended capital stacks (raw/rz-capital-2026-09-24.md, mission).
+
+## Where it sits in this wiki
+
+- [[The bioregions platform: programmes and pages]] records the launch of RZ Studio at a BioFi Deep Dive in September 2026.
+- [[The Dark Matter Labs bioregions platform]] names RZ Studio as the way Dark Matter Labs allocates capital to place-based partners.
+- [[The Believed Law of Financial Returns (Seefeld, 2026)]] argues, like the Returns position, against financial return as the organising principle (synthesis).
+- [[Bioregioning as Critical Infrastructure (Seefeld, 2026)]] shares the vocabulary of degenerative volatility, foundational economies and security (synthesis).
+
+
+---
+
+<!-- page: SI-SF: System Investing and System Finance (Codex 25) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/si-sf-codex-25-summary.md -->
+
+---
+type: summary
+title: "SI-SF: System Investing and System Finance (Codex 25)"
+description: A Dm Capital Systems report setting out a vocabulary and frameworks for financing whole systems, from value structuring and capital stacks to governance functions.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [system-investing, system-finance, capital-structuring, value-structuring, outcomes-finance, governance, structured-economic-systems]
+sources: []
+---
+
+# SI-SF: System Investing and System Finance (Codex 25)
+
+*Codex 25 is a 74-page report from Dm Capital Systems, published in 2025 (raw/DmCs_SI-SF_2708.pdf, p. 1). Its named authors are Indy Johar, Leon Seefeld, Irina V. Wang and Raj Kalia. The report says it will be published in partnership with the TWIST team (raw/DmCs_SI-SF_2708.pdf, p. 4). Read for this page: the whole document in passes, from the contents and preface to the appendix (pages 1 to 74). Page numbers below are PDF pages, which match the printed page numbers.*
+
+## What it argues
+
+The report defines system investing as a strategy for changing whole systems, whether social, economic, environmental or a mix (raw/DmCs_SI-SF_2708.pdf, p. 4). System finance is the set of instruments, capital structures and governance models that make that strategy work (raw/DmCs_SI-SF_2708.pdf, p. 4). It argues that value structuring is an often overlooked bottleneck. It defines this as "organising and accounting for the value generated through large-scale interventions and converting this value to price" (raw/DmCs_SI-SF_2708.pdf, p. 15).
+
+From there it builds a shared vocabulary. It covers what makes a system, value returns, investment strategies, capital structures, core functions and barriers (raw/DmCs_SI-SF_2708.pdf, pp. 7-68). A fictional city, Ederfield, runs through the report as a worked case. The authors state that Ederfield is invented and draws on cities they work with (raw/DmCs_SI-SF_2708.pdf, p. 5). They describe their own frameworks as "at best, partially tested hypotheses that continue to evolve" (raw/DmCs_SI-SF_2708.pdf, p. 2).
+
+In this view capital becomes a servant of the system and an enabler of other forms of capital (raw/DmCs_SI-SF_2708.pdf, p. 52). Metrics turn into tools for learning, and contracts become flexible agreements built on reciprocity (raw/DmCs_SI-SF_2708.pdf, pp. 53-54). The report also treats democracy, culture, nature, rivers and bioregions as layers of quasi-infrastructure worth investing in (raw/DmCs_SI-SF_2708.pdf, pp. 60-62). It states that it is not investment advice (raw/DmCs_SI-SF_2708.pdf, p. 4).
+
+## Key points
+
+- **What makes a system.** The report names four conditions: distributed agency, awareness of interdependency, shared purpose, and shared infrastructure for coordination (raw/DmCs_SI-SF_2708.pdf, p. 8). It also lists look-alikes that fail, such as a portfolio built to avoid correlation, or a monoculture held stable by subsidy (raw/DmCs_SI-SF_2708.pdf, pp. 9-10).
+- **Five layers of value return.** Input returns, direct value, spillover to nearby places, systemic outcomes like public health, and entangled macro-level outcomes (raw/DmCs_SI-SF_2708.pdf, pp. 16-18). Pricing and sharing value across these layers is how the report proposes to make system programmes investable (raw/DmCs_SI-SF_2708.pdf, p. 18).
+- **The Boring Revolution.** Three shifts: unbundled property rights, dynamic value chains, and structured economic systems where many actors pool resources and risk (raw/DmCs_SI-SF_2708.pdf, pp. 19-23). Digital registries, smart contracts and algorithmic pricing form the backbone (raw/DmCs_SI-SF_2708.pdf, pp. 25-26).
+- **Four investment strategies.** Capability building, single-point investments with many beneficiaries, multi-point investments in one asset, and M3 portfolios (multi-point, multi-asset, multi-beneficiary) (raw/DmCs_SI-SF_2708.pdf, pp. 30-33). The High Line in New York and Hawaiʻi Investment Ready's Food Systems Accelerator serve as real examples (raw/DmCs_SI-SF_2708.pdf, pp. 30, 33).
+- **Virtuous and stabilising portfolios.** Virtuous portfolios reinforce each other's effects. Stabilising portfolios buffer shocks in fragile systems and buy time for later change (raw/DmCs_SI-SF_2708.pdf, pp. 34-37). The report suggests a portfolio of portfolios that shifts with the state of the system (raw/DmCs_SI-SF_2708.pdf, p. 37).
+- **A 4x3 capital matrix.** Four stages of deployment meet three mechanisms: funds, transition financing facilities and monetary mechanisms (raw/DmCs_SI-SF_2708.pdf, p. 39). The stages run from capability building and deal construction to project financing and securitisation (raw/DmCs_SI-SF_2708.pdf, pp. 39-40). Monetary mechanisms include new development finance institutions such as bioregional development banks (raw/DmCs_SI-SF_2708.pdf, p. 40). Funds alone are not enough, the report argues, and system finance often needs synthetic instruments (raw/DmCs_SI-SF_2708.pdf, p. 41).
+- **Five core functions.** The first two are an outcome-stewards alliance of beneficiaries and an investors alliance. The others are a system or outcome accelerator, a system trust acting as public interest agent, and an independent governance and learning framework (raw/DmCs_SI-SF_2708.pdf, pp. 45-50).
+- **Barriers.** The report lists high interest rates, unpriced polycrisis risk, assets with no asset codes and bilateral contracts. It adds gaps in the capital stack, weak legitimacy and missing mandates for systems such as bioregions (raw/DmCs_SI-SF_2708.pdf, pp. 64-66). System entrepreneurship also lacks dedicated risk capital and its own working methods (raw/DmCs_SI-SF_2708.pdf, p. 67).
+
+## Where it sits in this wiki
+
+- [[Bioregional Financing Facilities (book, 2024)]]: in the Ederfield case, the city co-founds a Bioregional Finance Facility with its neighbours (raw/DmCs_SI-SF_2708.pdf, p. 62). Codex 25 places such facilities inside a wider system-finance toolkit (synthesis).
+- [[Relationalized Finance (Bollier and Hulst, 2025)]]: a contrasting view. Codex 25 builds tools to price value and route it through contracts and securities. Bollier and Hulst warn that pricing living systems distorts them (synthesis).
+- [[BFF Discovery Arc 1: Allocation Decision Governance]]: the system trust and the independent governance framework offer one model for who decides allocation (synthesis).
+- [[BFF Discovery Arc 2: Blended Finance and Catalytic Capital]]: the capital matrix and investors alliance frame how capital blends across stages (synthesis).
+- [[BFF Discovery Arc 4: Multi-Capital Returns]]: the five layers of value return and the poly-capital idea bear directly on multi-capital returns (synthesis).
+
+
+---
+
+<!-- page: Tay Bioregion Stocktake and Gap Analysis (2025) | https://dark-matter-labs.github.io/bioregional-finance-wiki-public/wiki/tayside-stocktake-summary.md -->
+
+---
+type: summary
+title: Tay Bioregion Stocktake and Gap Analysis (2025)
+description: A joint stocktake of bioregional organising in the Tay Bioregion across 15 elements, naming the gaps to close before a Bioregional Financing Facility.
+status: draft
+confidence: medium
+validation: machine
+timestamp: 2026-10-09
+licence: CC BY-SA 4.0
+tags: [tayside, scotland, stocktake, gap-analysis, bioregional-organising, bff-readiness]
+sources: []
+---
+
+# Tay Bioregion Stocktake and Gap Analysis (2025)
+
+*A 35-page report by Bioregioning Tayside and Dark Matter Labs, covering September 2024 to January 2025. It draws on ten conversations between two directors of Bioregioning Tayside and a lead from Dark Matter Labs. The report has no separate method or recommendations chapter. Its method sits in the introduction, and its suggested next steps sit in margin comments beside each answer. Read for this page: the whole report in three passes, covering the contents, introduction, summary table, all 15 element sections with their margin comments, and the appendix.*
+
+## What it argues
+
+The report asks whether the Tay Bioregion has the foundations a Bioregional Financing Facility (BFF) needs (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 4). It tests 15 elements of bioregional organising, learning from what other bioregional teams do (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 4). Its premise is that a BFF relies on a strong organisational base. Without one, existing financial interests could capture or misuse it (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 4).
+
+The finding is that Bioregioning Tayside has deep local trust and a live project base, with few formal structures yet. It has no theory of change, no bioregion-wide vision, no regeneration strategy document and no integrated health metrics (raw/tayside-stocktake-gap-analysis-report-2025.pdf, pp. 5-6). Funding is the tightest limit, and the work is fully grant funded (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 6). Even so, the report judges the Tayside team "miles ahead of many other teams" (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 6).
+
+The report also offers itself as a tool for other teams to gauge their own maturity. It avoids a fixed method for ranking gaps, because each place needs its own judgement (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 4).
+
+## Key points
+
+- **Fifteen elements.** The appendix defines each of the 15 elements (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 35). They run from the organising team and its theory of change to governance, finance, communication and links to other bioregions (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 35).
+- **A small team carrying a lot.** The core team is small, and the directors do much of the work unpaid (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 5). Key-person risk is named as the most significant internal risk (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 10).
+- **Projects without a portfolio logic yet.** Four projects were live, including the River Ericht Catchment Restoration Initiative and Feeding Tayside Through the Climate Crisis (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 18). Links between projects had not been mapped "in a strategic and systematic way" (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 18).
+- **Funding and finance.** "Funding is the most significant constraint for BT at the moment." (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 6). No dedicated financial instruments or institutions exist in the bioregion yet (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 30). Nature finance in Scotland faces headwinds on verification standards, public policy and landowners' appetite for risk (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 9).
+- **Weak bioregional identity.** People feel kinship at the scale of their community or their nation. The report notes that "Tayside as a place is not too much of a thing for people" (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 15). It links low care for land partly to the concentration of land ownership in Scotland (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 15).
+- **Measurement.** No bioregion-wide health measure exists, and current metrics stand alone (raw/tayside-stocktake-gap-analysis-report-2025.pdf, pp. 6, 24). The team prefers to bundle carbon, biodiversity and social benefits instead of trading them separately (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 24). It wants restoration income to reach local people as well as landowners (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 24).
+- **A distributed hub.** The team doubts the value of a single physical hub, which is costly to run (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 23). It suggests smaller dispersed spaces and a learning curriculum run through existing partners might suit better (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 23).
+- **Next steps in the margins.** One comment proposes a regeneration strategy document that would become "the investment thesis for any BFF to be developed" (raw/tayside-stocktake-gap-analysis-report-2025.pdf, p. 21). Others propose an integrated health framework for a BFF, and growing Bioregioning Tayside's re-granting role until a dedicated institution can take over (raw/tayside-stocktake-gap-analysis-report-2025.pdf, pp. 24, 30).
+
+## Where it sits in this wiki
+
+- [[Bioregioning Tayside: the BFF page and interviews]]: the public account of the same project, which presents this stocktake as stage 1.
+- [[Bioregional Financing Facilities (book, 2024)]]: the stocktake's questions cite page numbers in a book on BFFs (raw/tayside-stocktake-gap-analysis-report-2025.pdf, pp. 13, 16). It appears to be this one (synthesis).
+- [[The Bioregional Health Framework]]: element 10 found no integrated health measure, and this framework offers one shared starting point (synthesis).
+- [[BFF Discovery Arc 1: Allocation Decision Governance]]: element 12 found thin participation in decisions, the ground any allocation governance would build on (synthesis).
