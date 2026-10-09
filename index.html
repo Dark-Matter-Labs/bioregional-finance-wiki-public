@@ -35,6 +35,10 @@
                    background: var(--accent); color: var(--accent-fg); font: inherit; font-size: .9rem;
                    padding: .4rem .9rem; cursor: pointer; }
   .prompt button:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+  .actions { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; }
+  button.secondary { border: 1px solid var(--accent); border-radius: 6px; background: transparent;
+                     color: var(--accent); font: inherit; font-size: .95rem; padding: .4rem .9rem; cursor: pointer; }
+  button.secondary:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
   ul.pages span { color: var(--muted); }
   .note { color: var(--muted); font-size: .95rem; }
   footer { margin-top: 3rem; color: var(--muted); font-size: .9rem; }
@@ -49,18 +53,24 @@
   <p class="note">20 public page(s). Latest page change: 2026-10-09.</p>
 
   <h2>Ask your AI</h2>
-  <p>This works in ChatGPT, Claude, Gemini, Perplexity and most other chat assistants. Copy the
-  prompt and add your question at the end.</p>
+  <p><strong>If your assistant can open links</strong> (ChatGPT, Claude, Perplexity and most others):
+  copy this prompt, paste it into a chat and add your question at the end.</p>
   <div class="prompt">
-    <pre id="prompt">Read https://dark-matter-labs.github.io/bioregional-finance-wiki-public/llms-full.txt. It is the Bioregional Finance Wiki.
-Answer my question from it. Cite the page title for each claim.
-Say clearly when the wiki does not cover something.
+    <pre id="prompt">Read https://dark-matter-labs.github.io/bioregional-finance-wiki-public/llms-full.txt?v=ca838bf7. It is the Bioregional Finance Wiki.
+First, tell me how many pages the file says it holds and its latest page change. If you cannot open the link, say so and stop.
+Then answer my question using only that file. Cite the page title for each claim. If the wiki does not cover something, say so. Do not fill gaps from other knowledge.
 
 My question: </pre>
     <button type="button" id="copy">Copy prompt</button>
   </div>
-  <p class="note">If your assistant cannot open links, download
-  <a href="llms-full.txt" download>llms-full.txt</a>, attach it to your chat, and use the same prompt.</p>
+  <p class="note">Check the first line of the answer. It should say 20 pages and
+  2026-10-09. If it says fewer pages or an older date, your assistant is reading an old copy:
+  use the option below instead.</p>
+
+  <p><strong>If it cannot open links</strong> (Gemini often cannot), or gives an old answer: copy
+  the whole wiki with the prompt included, paste it into a chat, and type your question at the end.</p>
+  <p class="actions"><button type="button" id="copy-all" class="secondary">Copy the whole wiki</button>
+  <a href="llms-full.txt" download>or download it as a file</a> to attach.</p>
 
   <h3>In a coding agent</h3>
   <p>For deeper work in Claude Code, Cursor, Codex or a similar tool, download the wiki with
@@ -123,6 +133,35 @@ My question: </pre>
         button.textContent = "Copied";
         setTimeout(function () { button.textContent = "Copy prompt"; }, 2000);
       }, function () { button.textContent = "Select and copy"; });
+    });
+
+    // The whole wiki, with the instructions after it, for assistants that cannot open links.
+    var all = document.getElementById("copy-all");
+    var ask = "\n\n---\nAbove is the full text of the Bioregional Finance Wiki. " +
+      "Answer my question using only that text. Cite the page title for each claim. " +
+      "If the wiki does not cover something, say so. Do not fill gaps from other knowledge.\n\nMy question: ";
+    function textWithAsk() {
+      return fetch("llms-full.txt?v=ca838bf7").then(function (r) {
+        if (!r.ok) { throw new Error("fetch failed"); }
+        return r.text();
+      }).then(function (text) { return text + ask; });
+    }
+    function done(label) {
+      all.textContent = label;
+      setTimeout(function () { all.textContent = "Copy the whole wiki"; }, 2500);
+    }
+    all.addEventListener("click", function () {
+      all.textContent = "Copying…";
+      var failed = function () { done("Could not copy: use the download link"); };
+      if (navigator.clipboard && window.ClipboardItem) {
+        // Safari needs the clipboard write to start inside the click, with the text to follow.
+        var blob = textWithAsk().then(function (s) { return new Blob([s], { type: "text/plain" }); });
+        navigator.clipboard.write([new ClipboardItem({ "text/plain": blob })])
+          .then(function () { done("Copied. Paste it into your chat"); }, failed);
+      } else if (navigator.clipboard) {
+        textWithAsk().then(function (s) { return navigator.clipboard.writeText(s); })
+          .then(function () { done("Copied. Paste it into your chat"); }, failed);
+      } else { failed(); }
     });
   })();
 </script>
